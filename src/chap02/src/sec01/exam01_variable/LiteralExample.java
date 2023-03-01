@@ -11,6 +11,6 @@ public class LiteralExample {
 		System.out.println(var2);
 		
 		int var3 = 0x10; // 16진수 16
-		System.out.println(var3)
+		System.out.println(var3);
 	}
 }

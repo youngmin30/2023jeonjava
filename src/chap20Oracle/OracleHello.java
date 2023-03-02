@@ -1,3 +1,5 @@
+package chap20Oracle;
+
 /*
  * 2023년 3월 2일 
  * sqlDeveloper에 먼저 접속
@@ -73,4 +75,3 @@ public class OracleHello {
 			}
 		}
 	}
-}

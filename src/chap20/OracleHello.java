@@ -1,4 +1,4 @@
-package chap20Oracle;
+package org.vision.jdbcexam;
 
 /*
  * 2023년 3월 2일 
@@ -75,3 +75,4 @@ public class OracleHello {
 			}
 		}
 	}
+}

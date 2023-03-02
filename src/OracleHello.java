@@ -1,5 +1,5 @@
 /*
- * 2023년 3월 2일 목
+ * 2023년 3월 2일 
  * sqlDeveloper에 먼저 접속
  * java 프로젝트 생성(jdk1.8, ojdbc6_g.jar 추가한 프로젝트)
  * ojbdc6_g.jar 위치: C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib

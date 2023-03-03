@@ -1,4 +1,4 @@
-package org.vision.jdbcexam;
+package chap20;
 
 /*
  * 2023년 3월 2일 
